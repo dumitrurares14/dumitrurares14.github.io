@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+date: 2023-04-06
+title: 2D Ray Tracer
+logo: RayTracerLogo.png
+img: 2dtracer1.png
+img2: 2dtracer2.png
+img3: lumisnake1.png
+img4: lumisnake2.png
+alt: image-alt
+project-date: April 2023
+#client: Start Bootstrap
+category: Graphics programming
+description: 2D Ray Tracer made during Block C in Year 1 at BUAS. The ray tracer is written entirely in C++ and runs only on the CPU. This was followed by a quick snake spin off to showcase the capabilites of the renderer.
+---
