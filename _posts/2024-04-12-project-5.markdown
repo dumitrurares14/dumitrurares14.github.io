@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 5
+date: 2024-04-12
+title: Voxel Engine
+logo: VoxelLogo.png
+img: voxelgame.gif
+img2: voxel1.png
+img3: volumetric.png
+img4: volumetric2.png
+alt: image-alt
+project-date: April 2024
+#client: Start Bootstrap
+category: Graphics programming | Engine | Tools
+duration: 8 weeks
+description: Custom voxel engine project made in a team during Block C in Year 2 at BUAS. The engine is made in C++ and OpenGL with additional cross-platform support for PlayStation. Gained experience with global illumination, Voxel Cone tracing, Ray Tracing, volumetric effects, and GPU workflows. 
+---

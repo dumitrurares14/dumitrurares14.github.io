@@ -48,6 +48,11 @@
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
+              {% if post.duration %}
+              <li>Duration:
+                <strong>{{ post.duration }}</strong>
+              </li>
+              {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
