@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2024-04-12
+date: 2023-11-03
 title: Lambda Engine
 logo: LambdaLogo.png
 img: scenesaving.gif
@@ -9,7 +9,7 @@ img2: particles.gif
 img3: run.gif
 img4: run2.gif
 alt: image-alt
-project-date: April 2024
+project-date: November 2023
 #client: Start Bootstrap
 category: Engine 
 duration: 8 weeks

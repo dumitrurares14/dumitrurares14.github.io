@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2024-04-12
+date: 2024-01-26
 title: rVox Engine
 logo: BlockBLogo.png
 img: demo3.gif
@@ -9,7 +9,7 @@ img2: voxels-block-b-3.png
 img3: voxels-block-b-2.png
 img4: voxels-block-b-1.png
 alt: image-alt
-project-date: April 2024
+project-date: January 2024
 #client: Start Bootstrap
 category: Graphics programming | Engine 
 duration: 8 weeks
