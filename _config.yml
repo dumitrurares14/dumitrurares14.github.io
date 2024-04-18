@@ -26,7 +26,7 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 2B303A #7C7C7C #80B3FF
-  primary-rgb: "73,53,72" #"128,179,255"
+  primary-rgb: "124,124,124" #"128,179,255"
   secondary: 7C7C7C #FD6E8A
   secondary-dark: 7C7C7C #A2122F
 
@@ -42,6 +42,8 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/rares-dumitru-343a36214/
   - title: github
+    url: https://github.com/dumitrurares14
+  - title: play
     url: https://github.com/dumitrurares14
 
 # Postal address (add as many lines as necessary)

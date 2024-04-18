@@ -4,13 +4,13 @@ modal-id: 2
 date: 2023-06-29
 title: Mowdown
 logo: MowDown.png
-img: 2dtracer1.png
-img2: 2dtracer2.png
-img3: lumisnake1.png
-img4: lumisnake2.png
+img: respawn system.gif
+img2: heattool.gif
+img3: null
+img4: null
 alt: image-alt
-project-date: April 2024
+project-date: June 2023
 #client: Start Bootstrap
-category: Graphics programming
-description: 2D Ray Tracer made during Block C in Year 1 at BUAS. The ray tracer is written entirely in C++ and runs only on the CPU. This was followed by a quick snake spin off to showcase the capabilites of the renderer.
+category: Gameplay/Tools
+description: Unreal Engine game made during Block D in Year 1 at BUAS. Worked at the grass cutting system, other mechanics(respawn, shoot, movement) and developed tools for play testing/design such as a heatmap that shows where players spend most time during a play session.
 ---
