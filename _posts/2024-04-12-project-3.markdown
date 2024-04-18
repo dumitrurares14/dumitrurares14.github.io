@@ -2,15 +2,15 @@
 layout: default
 modal-id: 3
 date: 2024-04-12
-title: Voxel Engine
-logo: VoxelLogo.png
-img: voxelgame.gif
-img2: voxel1.png
-img3: volumetric.png
-img4: volumetric2.png
+title: First Voxel Engine
+logo: BlockBLogo.png
+img: demo3.gif
+img2: voxels-block-b-3.png
+img3: voxels-block-b-2.png
+img4: voxels-block-b-1.png
 alt: image-alt
 project-date: April 2024
 #client: Start Bootstrap
-category: Graphics programming | Engine | Tools
-description: Custom voxel engine project made in a team during Block C in Year 2 at BUAS. The engine is made in C++ and OpenGL with aditional cross-platform support for PlayStation. Gained experience with Global Ilumination, Voxel Cone tracing, Ray Tracing, volumetric effects and GPU workflows. 
+category: Graphics programming | Engine 
+description: Custom voxel engine project made during Block B in Year 2 at BUAS. The engine is made in C++ and OpenGL with OpenCL and OpenCL. Per voxel lighting with software ray tracing. Project is followed up by a short  <a href = "https://dumitrurares14.github.io/Per-Voxel-Lighting-for-Dummies/">blog post </a>
 ---
