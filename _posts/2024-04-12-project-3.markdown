@@ -4,13 +4,13 @@ modal-id: 3
 date: 2024-04-12
 title: Voxel Engine
 logo: VoxelLogo.png
-img: 2dtracer1.png
-img2: 2dtracer2.png
-img3: lumisnake1.png
-img4: lumisnake2.png
+img: voxelgame.gif
+img2: voxel1.png
+img3: volumetric.png
+img4: volumetric2.png
 alt: image-alt
 project-date: April 2024
 #client: Start Bootstrap
-category: Graphics programming
-description: 2D Ray Tracer made during Block C in Year 1 at BUAS. The ray tracer is written entirely in C++ and runs only on the CPU. This was followed by a quick snake spin off to showcase the capabilites of the renderer.
+category: Graphics programming | Engine | Tools
+description: Custom voxel engine project made in a team during Block C in Year 2 at BUAS. The engine is made in C++ and OpenGL with aditional cross-platform support for PlayStation. Gained expierence with Global Ilumination, Voxel Cone tracing, Ray Tracing, volumetric effects and GPU workflows. 
 ---

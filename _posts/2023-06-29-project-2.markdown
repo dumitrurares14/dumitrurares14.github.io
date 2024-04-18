@@ -12,5 +12,5 @@ alt: image-alt
 project-date: June 2023
 #client: Start Bootstrap
 category: Gameplay/Tools
-description: Unreal Engine game made during Block D in Year 1 at BUAS. Worked at the grass cutting system, other mechanics(respawn, shoot, movement) and developed tools for play testing/design such as a heatmap that shows where players spend most time during a play session.
+description: Unreal Engine game made in a team project during Block D in Year 1 at BUAS. Worked at the grass cutting system, other mechanics(respawn, shoot, movement) and developed tools for play testing/design such as a heatmap that shows where players spend most time during a play session.
 ---
