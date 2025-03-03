@@ -72,7 +72,7 @@ badges:
   color: "#ff0000"
 
 - type: soft-skill-indicator
-  name: time management
+  name: Time management
   percentage: 80
   color: green
 
