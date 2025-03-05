@@ -1,7 +1,7 @@
 ---
 title: "2D CPU Ray Tracer"
 date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+description: 2D CPU Ray Tracer
 menu:
   sidebar:
     name: 2D Ray Tracer
@@ -12,4 +12,15 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-2D Ray Tracer made during Block C in Year 1 at BUAS. The ray tracer is written entirely in C++ and runs only on the CPU. This was followed by a quick snake spin-off to showcase the capabilities of the renderer.
+This 2D Ray Tracer was developed as a course project at BUAS during Block C of Year 1. The entire rendering pipeline runs on the CPU in C++. To demonstrate the dynamic lighting capabilities, I made a small snake spinoff on top of the engine. 
+
+
+## Goals and Motivations
+
+#### Technical Goals:
+
+- Explore fundamental ray-tracing concepts such as intersection checks, shadows, lighting.
+- Gain experience on CPU based renderers while improving C++ skills.
+- Get a basic understanding of optimization techniques in ray tracing
+
+#### Challenges and solutions
