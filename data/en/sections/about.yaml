@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am Rareş, a self-motivated student passionate about game development with a drive towards research. Voxel engines and everything regarding real-time global illumination are my favorite topics to study and work with. Feel free to reach out to me with any questions about my work or just chit-chat about voxels or graphics.'
+summary: 'I am Rareș, a self-motivated student passionate about game development with a drive towards research. Voxel engines and everything regarding real-time global illumination are my favorite topics to study and work with. Feel free to reach out to me with any questions about my work or just chit-chat about voxels or graphics.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -36,11 +36,19 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/dumitrurares14/"
 
+- name: Discord
+  icon: "fab fa-discord"
+  url: "https://discordapp.com/users/277389778155208704"
+
+- name: Steam
+  icon: "fab fa-steam"
+  url: "https://steamcommunity.com/id/rares-steam/"
+
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/Rares Dumitru resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

@@ -1,7 +1,7 @@
 baseURL: https://dumitrurares14.github.io/
 
 languageCode: en
-title: "Dumitru Rares | Graphics Programmer"
+title: "Dumitru Rareș | Graphics Programmer"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Dumitru Rares | Graphics Programmer"
+    title: "Dumitru Rareș | Graphics Programmer"
     weight: 1
   #bn:
     #languageCode: bn
@@ -100,7 +100,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
