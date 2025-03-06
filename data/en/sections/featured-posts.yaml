@@ -8,4 +8,11 @@ section:
 
 # posts to feature
 posts:
+  - cone_tracing_ca
+  - rvox
+  - wexel
+  - voxel_team_engine
   - 2d_ray_tracer
+  - lambda
+  - owlet
+  - mowdown

@@ -8,7 +8,7 @@ menu:
     identifier: 2d_ray_tracer
     weight: 1
 hero: RayTracerLogo.png
-tags: ["Basic", "Multi-lingual"]
+tags: ["Ray Tracing", "Graphics"]
 categories: ["Basic"]
 ---
 

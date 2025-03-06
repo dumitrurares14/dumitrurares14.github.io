@@ -29,9 +29,41 @@ skills:
   logo: /images/sections/skills/vulkan.png
   summary: "Experienced with Vulkan API. Worked on a custom game engine using Vulkan."
   categories: ["graphics"]
-  url: "https://www.vulkan.org/"
+
+- name: OpenGL
+  logo: /images/sections/skills/opengl.svg
+  summary: "Great experience with OpenGL, having worked on multiple projects using it."
+  categories: ["graphics"]
+
+- name: OpenCL
+  logo: /images/sections/skills/opencl.jpg
+  summary: "Minor experience with OpenCL, used it for a custom software raytracing pipeline."
+  categories: ["graphics"]
+
+- name: WebGPU
+  logo: /images/sections/skills/webgpu.svg
+  summary: "Minor experience with WebGPU, learned it as a fun personal project."
+  categories: ["graphics"]
+
+- name: GLSL/HLSL
+  logo: /images/sections/skills/glsl.png
+  summary: "Great experience with shader programming, from software ray tracing to post processing effects and compute shaders, shaders are my favorite part of graphics programming."
+  categories: ["graphics"]
+
+
 
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Majority of my programming career was with C++. Experienced with modern C++ features and libraries. Very good understanding of C++ in game development."
   categories: ["programming"]
+
+- name: Scripting (Wren, Lua, C#)
+  logo: /images/sections/skills/lua.png
+  summary: "Experience with using scripting languages in game development. Minor experience with implementing scripting languages in game engines."
+  categories: ["programming"]
+
+- name: Web Development (HTML, CSS, JS)
+  logo: /images/sections/skills/HTML5.png
+  summary: "Some experience with web development from multiple sites and project I've worked on throughout the years."
+  categories: ["programming"]
+
